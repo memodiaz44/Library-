@@ -1,0 +1,158 @@
+body{
+    background-color: rgb(102, 138, 141);
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.conteinreer{
+    
+
+
+
+}
+
+.newbook{
+    background-color: grey;
+    height: 20px;
+    margin-right: 80px;
+    margin-top: 90px;
+    position: absolute;
+    color: aliceblue;
+    
+    
+    
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    margin-left: -2px;
+    border-radius: 5px;
+
+}
+
+.verti{
+    width: 1120px;
+    height: 130px;
+    border: solid black 2px;
+    margin-top: -8px;
+    background-color: antiquewhite;
+    display: flex;
+   
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.horti{
+
+    width: 200px;
+    height: 670px;
+    border: solid black 2px;
+    margin-top: -2px;
+
+    margin-right: 920px;
+
+    background-color: antiquewhite;
+    position: absolute;
+    display: none;
+}
+
+.addedbooks{
+    background-color: grey;
+    height: 20px;
+    margin-left: 100px;
+    margin-top: 90px;
+    justify-content: center;
+    color:  aliceblue;;
+    position: absolute;
+    
+    
+
+}
+
+.form{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    margin-left: 470px;
+    margin-top: 20px;
+    background-color: gray;
+    position: absolute;
+    vertical-align: middle;
+    align-items: center;
+  
+ 
+   
+
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 15px;
+    font-size: xx-large;
+    color: rgb(125, 123, 153);
+    position: absolute;
+    
+}
+
+#tit{
+    color: white;
+    margin-top: 30px;
+}
+
+#aut{
+    color: white;
+}
+
+#addB{
+    margin-top: 20px;
+}
+
+
+#pages{
+    color: white;
+
+
+
+}
+
+.read{
+    color: white;
+}
+
+.newddd{
+    color: rgb(56, 64, 72);
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+    background-color: bisque;
+   
+    line-height: 40px;
+    display: block;
+    margin-top: 160px;
+
+
+}
+
+#remove{
+    background-color: grey;
+    height: 20px;
+    margin-left: 950px;
+    margin-top: 90px;
+    position: absolute;
+    color: aliceblue;
+}
+
+#edit{
+    background-color: grey;
+    height: 20px;
+    margin-left: 1080px;
+    margin-top: 90px;
+    position: absolute;
+    color: aliceblue;
+}
+
